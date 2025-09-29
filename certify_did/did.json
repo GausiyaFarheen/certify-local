@@ -1,4 +1,3 @@
-
 {
   "assertionMethod": [
     "did:web:GausiyaFarheen.github.io:certify-local:certify_did"
@@ -7,7 +6,7 @@
   "id": "did:web:GausiyaFarheen.github.io:certify-local:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkkCiozWaUyD3tG6z7E3sJmW1fXYDQUJ9YpCEqpHvtJ4Xv",
+      "publicKeyMultibase": "z6Mkqmv2dJCpg14YghPJTDELzLf7tfb8yqK4tCMiypoTfFED",
       "controller": "did:web:GausiyaFarheen.github.io:certify-local:certify_did",
       "id": "did:web:GausiyaFarheen.github.io:certify-local:certify_did#n2x-ysqUCsq561Q2Be5xX7dHTAla7KBA5BWkCOZ3_LU",
       "type": "Ed25519VerificationKey2020",
