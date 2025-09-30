@@ -6,9 +6,9 @@
   "id": "did:web:GausiyaFarheen.github.io:certify-local:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkqLuAFdD6BajDLvuAXCwYUXxqKoDBcu4wCPP437EpWyHb",
+      "publicKeyMultibase": "z6MkoMMDKtuwaUmYVb7Zu4EVUhAfk96gDcUj5pTU42do5k5N",
       "controller": "did:web:GausiyaFarheen.github.io:certify-local:certify_did",
-      "id": "did:web:GausiyaFarheen.github.io:certify-local:certify_did#n2x-ysqUCsq561Q2Be5xX7dHTAla7KBA5BWkCOZ3_LU",
+      "id": "did:web:GausiyaFarheen.github.io:certify-local:certify_did#3ndvfwtHfDl5S5jgKHEicK-dGNppBGK71LzrQvF3iuQ",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
